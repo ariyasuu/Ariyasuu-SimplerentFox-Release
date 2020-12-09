@@ -7,5 +7,8 @@ Important stuff you might do for this theme to work properly:
 Enable the use of custom styles in ```about:config```
 ```toolkit.legacyUserProfileCustomizations.stylesheets > True```
 and enable the blurry URL bar
-```layout.css.backdrop-filter.enabled > true
-gfx.webrender.all > true```
+
+```layout.css.backdrop-filter.enabled > true```
+
+```gfx.webrender.all > true```
+^ Both needed
