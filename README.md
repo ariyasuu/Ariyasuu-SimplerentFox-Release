@@ -11,4 +11,5 @@ and enable the blurry URL bar
 ```layout.css.backdrop-filter.enabled > true```
 
 ```gfx.webrender.all > true```
+
 ^ Both needed
